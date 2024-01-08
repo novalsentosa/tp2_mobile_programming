@@ -24,7 +24,7 @@ const DataDiri = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.textRed}>Isi nama :</Text>
+      <Text style={styles.textRed}>Isi Nama :</Text>
       <TextInput
         style={[styles.input, { color: 'blue' }]} // Ganti warna teks menjadi biru
         placeholder="Nama"
